@@ -66,8 +66,8 @@ TARGET_KERNEL_ARCH := arm64
 TARGET_KERNEL_CROSS_COMPILE_PREFIX := aarch64-opt-linux-android-
 TARGET_KERNEL_HEADER_ARCH := arm64
 TARGET_KERNEL_SOURCE := kernel/asus/sdm660
-TARGET_KERNEL_CONFIG := X00TD_defconfig
-KERNEL_TOOLCHAIN := /home/travarilo/droid/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-gnu/bin
+TARGET_KERNEL_CONFIG := darkonah_defconfig
+KERNEL_TOOLCHAIN := /home/travarilo/liquid/prebuilts/gcc/linux-x86/aarch64/aarch64_linux_gnu/bin
 TARGET_KERNEL_CLANG_COMPILE := false
 
 # ANT+
