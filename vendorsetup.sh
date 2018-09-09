@@ -1,1 +1,1 @@
-add_lunch_combo liquid_X00TD-userdebug
+add_lunch_combo du_X00TD-userdebug
